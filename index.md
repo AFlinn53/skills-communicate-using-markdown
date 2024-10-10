@@ -1,6 +1,9 @@
 # H1 Header Test
 ## H2 Header Test
 
+- [ ] Check Canvas
+- [ ] Do Homework
+- [ ] Read a book
 
 ``` java
 System.out.println("Hello World!")
